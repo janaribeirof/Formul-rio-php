@@ -9,15 +9,14 @@
 
 ### Sobre
 
-Criação de uma tela de login transparente com conexão do formulário com banco de dados MySQL utilizando linguagem PHP. O Javascript foi utilizado para validação dos campos de preenchimento pelo usuário para cadastro no banco de dados.
+Criação de uma tela de login transparente com conexão do banco de dados MySQL utilizando linguagem PHP. O Javascript foi utilizado para validação dos campos de preenchimento pelo usuário para cadastro no banco de dados.
 
 
 <br>
 
+![tela](https://user-images.githubusercontent.com/61358723/174450733-efe4a680-79fd-444a-a512-dad47fb481b4.png)
 
- <h1 align="center">
-    <img alt="img tela" scr="./assets/tela.png"> 
-
+ 
  
 
  ### 🛠️ Tecnologias
